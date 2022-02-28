@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/TruongVyPhat/xanh-travel/static/css/main.967a31e5.css",
+    "main.js": "/TruongVyPhat/xanh-travel/static/js/main.02e881de.js",
+    "static/media/caocap-1.png": "/TruongVyPhat/xanh-travel/static/media/caocap-1.989f11ea4a2b55562c34.png",
+    "static/media/hue.jpg": "/TruongVyPhat/xanh-travel/static/media/hue.606e1dce203955832d76.jpg",
+    "static/media/danang.jpg": "/TruongVyPhat/xanh-travel/static/media/danang.39af21df0948639c3823.jpg",
+    "static/media/phuquoc.jpg": "/TruongVyPhat/xanh-travel/static/media/phuquoc.2e3c99bd41264ef0158e.jpg",
+    "static/media/congdong1.gif": "/TruongVyPhat/xanh-travel/static/media/congdong1.1d4148316afdbb0aae4c.gif",
+    "static/media/quangbinh.jpg": "/TruongVyPhat/xanh-travel/static/media/quangbinh.7e8923d3b8bc874a6a0f.jpg",
+    "static/media/team1.png": "/TruongVyPhat/xanh-travel/static/media/team1.fb678071365be3ecd448.png",
+    "static/media/homeImage.jpg": "/TruongVyPhat/xanh-travel/static/media/homeImage.ffbbac75a221fe0e43d7.jpg",
+    "static/media/long.jpg": "/TruongVyPhat/xanh-travel/static/media/long.6cb5844b004b10060bf9.jpg",
+    "static/media/phung.jpg": "/TruongVyPhat/xanh-travel/static/media/phung.add853c893ff139193c8.jpg",
+    "static/media/ninhbinh.jpg": "/TruongVyPhat/xanh-travel/static/media/ninhbinh.d4d8cd489f4928b5682a.jpg",
+    "static/media/phat.jpg": "/TruongVyPhat/xanh-travel/static/media/phat.c96d6dedc36bcede529d.jpg",
+    "static/media/anh.jpg": "/TruongVyPhat/xanh-travel/static/media/anh.a36ce98c45f966e68b9b.jpg",
+    "static/media/Bngoc.jpg": "/TruongVyPhat/xanh-travel/static/media/Bngoc.0f31822466183b1da8ed.jpg",
+    "static/media/nhatrang.jpg": "/TruongVyPhat/xanh-travel/static/media/nhatrang.f71421cd1362adb420cf.jpg",
+    "static/media/oanh.jpg": "/TruongVyPhat/xanh-travel/static/media/oanh.b9cccc285c5c84cbc2cd.jpg",
+    "static/media/kha.jpg": "/TruongVyPhat/xanh-travel/static/media/kha.df11bd36096aec212cc3.jpg",
+    "static/media/tien.jpg": "/TruongVyPhat/xanh-travel/static/media/tien.71cba9ad4b9e321a03ea.jpg",
+    "static/media/tuong.jpg": "/TruongVyPhat/xanh-travel/static/media/tuong.a7975462b45cc90e9678.jpg",
+    "static/media/ngoc.jpg": "/TruongVyPhat/xanh-travel/static/media/ngoc.6273ce93a65275b89df4.jpg",
+    "static/media/thao.jpg": "/TruongVyPhat/xanh-travel/static/media/thao.017d07dc047fc43af94d.jpg",
+    "static/media/nhu.jpg": "/TruongVyPhat/xanh-travel/static/media/nhu.5c5b9c6c56369572240e.jpg",
+    "static/media/sukien-1.jpg": "/TruongVyPhat/xanh-travel/static/media/sukien-1.3f2e41926dcbdcfa2f95.jpg",
+    "static/media/logoTravelXanh.jpg": "/TruongVyPhat/xanh-travel/static/media/logoTravelXanh.dcfe291ed05e80d1f0fb.jpg",
+    "index.html": "/TruongVyPhat/xanh-travel/index.html",
+    "main.967a31e5.css.map": "/TruongVyPhat/xanh-travel/static/css/main.967a31e5.css.map",
+    "main.02e881de.js.map": "/TruongVyPhat/xanh-travel/static/js/main.02e881de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967a31e5.css",
+    "static/js/main.02e881de.js"
+  ]
+}
